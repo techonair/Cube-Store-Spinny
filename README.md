@@ -3,5 +3,6 @@ A store with CRUD functionality built using Django REST Framework (DRF). End-to-
 
 Initialize env:
 python -m venv venv
+
 Activate environment:
 venv\Scripts\activate
