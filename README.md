@@ -2,10 +2,16 @@
 A store with CRUD functionality built using Django REST Framework (DRF). End-to-end REST API built for client access services.
 
 Initialize env:
-python -m venv venv
+
+    python -m venv venv
 
 Activate environment:
-venv\Scripts\activate
+
+    venv\Scripts\activate
+
+Install Requirements:
+
+    pip install requirements.txt 
 
 ## "Auth-Token" API Request
 ![Photos of the website](https://github.com/techonair/Cube-Store-Spinny/blob/main/Demo%20Postman%20Screenshots/auth_token.png)
